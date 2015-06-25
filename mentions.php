@@ -15,7 +15,7 @@
 <h4><span>1.</span> Présentation du site.</h4>
 <p>En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site <a href="celiasamyn.be/petsitting">http://celiasamyn.be/petsitting</a> l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi:<p>
 
-<p><strong>Propriétaire</strong>: Célia Samyn – rue Gustave Verbeeck 3 5001 BELGRADE</p>
+<p><strong>Propriétaire</strong>: Célia Samyn</p>
 <p><strong>Créateur</strong>: Célia Samyn</p>
 <p><strong>Responsable publication</strong>: Célia Samyn – me contacter</p>
 <p>Le responsable publication est une personne physique ou une personne morale.</p>
